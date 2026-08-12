@@ -1,0 +1,6 @@
+{
+  "name": "Financial Report Assistant",
+  "description": "Financial report Q&A pipeline with multi-turn memory, structured insight extraction (Revenue, Expenses, Risks, Outlook), and financial metric comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
